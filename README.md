@@ -13,3 +13,8 @@
 
 ## ML
 - Datastore : [deeplake](https://github.com/activeloopai/deeplake)
+
+
+
+## Logistics
+- [architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
