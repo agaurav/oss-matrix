@@ -18,3 +18,4 @@
 
 ## Logistics
 - [architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [xstate - FSM modeling and viz](https://github.com/statelyai/xstate)
