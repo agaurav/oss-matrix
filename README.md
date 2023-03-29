@@ -23,6 +23,10 @@
 - stream processing : [risingwave](https://www.risingwave.dev/docs/current/intro/)
 
 
+## UX
+- query parsing : [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+
+
 ## Observability & Logistics
 - [architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
 - [xstate - FSM modeling and viz](https://github.com/statelyai/xstate)
