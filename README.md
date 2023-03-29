@@ -15,7 +15,14 @@
 - Datastore : [deeplake](https://github.com/activeloopai/deeplake)
 
 
+## Data storage
+- lot of small objects : [seaweedfs](https://github.com/seaweedfs/seaweedfs)
 
-## Logistics
+
+## Data processing 
+- stream processing : [risingwave](https://www.risingwave.dev/docs/current/intro/)
+
+
+## Observability & Logistics
 - [architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
 - [xstate - FSM modeling and viz](https://github.com/statelyai/xstate)
