@@ -17,11 +17,16 @@
 
 ## Data storage
 - lot of small objects : [seaweedfs](https://github.com/seaweedfs/seaweedfs)
+- schemeless indexing : [sonic](https://github.com/valeriansaliou/sonic)
+- search engine : [meilisearch](https://github.com/meilisearch/meilisearch)
 
 
 ## Data processing 
 - stream processing : [risingwave](https://www.risingwave.dev/docs/current/intro/)
 
+
+## Data collection 
+- [vector](https://github.com/vectordotdev/vector)
 
 ## UX
 - query parsing : [tree-sitter](https://github.com/tree-sitter/tree-sitter)
