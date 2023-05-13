@@ -31,6 +31,8 @@
 ## UX
 - query parsing : [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
+## productivity 
+- workflow : https://github.com/windmill-labs/windmill#how-to-self-host
 
 ## Observability & Logistics
 - [architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
