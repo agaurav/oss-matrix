@@ -31,6 +31,9 @@
 ## UX
 - query parsing : [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
+### Viz 
+- https://github.com/zxch3n/tidy
+
 ## productivity 
 - workflow : https://github.com/windmill-labs/windmill#how-to-self-host
 
