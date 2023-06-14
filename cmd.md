@@ -18,7 +18,7 @@ sudo nvme smart-log /dev/nvme0n1
 ```
 
 
-#### fast copy one disk to another 
+#### fast copy one disk to another (of same type, `xfs` -> `ext4` will corrupt the second disk)
 as root
 
 ``` bash
