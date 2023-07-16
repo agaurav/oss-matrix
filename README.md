@@ -13,6 +13,7 @@
 
 ## ML
 - Datastore : [deeplake](https://github.com/activeloopai/deeplake)
+- vector search : [faiss](https://github.com/facebookresearch/faiss)
 
 
 ## Data storage
