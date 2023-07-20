@@ -35,6 +35,7 @@
 ## UX
 - query parsing : [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 - TUI : https://github.com/charmbracelet/bubbletea
+- prompt testing : https://github.com/promptfoo/promptfoo
 
 ### Viz 
 - https://github.com/zxch3n/tidy
